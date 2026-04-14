@@ -1,6 +1,6 @@
 PROJECT DESCRIPTION
 
-This project involves a comprensive Explotary Data Analysis (EDA) performed using Python and Jupyter Notebool. It demonstrates my ability to understand, clean, and analyze datasets to uncover patterns, trands and actionable insights
+This project involves a comprensive Explotary Data Analysis (EDA) performed using Python and Jupyter Notebook. It demonstrates my ability to understand, clean, and analyze datasets to uncover patterns, trands and actionable insights
 
 This analysis includes:
 
